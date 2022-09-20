@@ -1,0 +1,65 @@
+.MuiAppBar-root{
+    background-color: #02a95c !important;
+    width: 60vw !important;
+    margin-left: 13vw;
+}
+
+
+
+.css-19285mc-MuiFormLabel-root-MuiInputLabel-root.Mui-focused{
+    color: #02a95c !important;  
+}
+
+.css-19285mc-MuiFormLabel-root-MuiInputLabel-root {
+    /* border-color: #02a95c !important; */
+    border: none !important;
+}
+
+.MuiFormControl-root-MuiTextField-root-css-1u3bzj6-MuiFormControl-root-MuiTextField-root{
+    background-color: #02a95c !important;
+}
+
+.MuiBox-root {
+    width: 90% !important;
+    
+}
+
+.react-swipeable-view-container{
+    margin-left: 22vw;
+}
+
+.JanazaRequestFormHeading{
+   padding-bottom: 3%;
+   padding-top: 5%;
+}
+
+.InputField{
+    padding-top: 10%;
+}
+
+
+
+.JanazaRequestInputs{
+    padding: 20% !important;
+}
+
+.InputField{
+    margin-top: 5% !important;
+}
+
+.JanazaRequestInputs{
+   margin-top: 2%;
+    padding-bottom: 3%;
+}
+
+.JanazaRequestFormParagraph{
+    margin-left: 40%;
+    font-size: 12px;
+    font-weight: 600;
+}
+
+.JanazaRequestImageUpload{
+    margin-left: 35%;
+    margin-top: 5%;
+    margin-bottom: 10%;
+}

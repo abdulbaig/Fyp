@@ -1,0 +1,77 @@
+.split {
+    height: 90%;
+    width: 25%;
+    position: absolute;
+    z-index: 1;
+    top: 0;
+    overflow-x: hidden;
+    padding-top: 20px;
+  }
+  
+  .left {
+    left: 0%;
+    height: 90%;
+    width: 75%;
+    margin-top: 5%;
+    /* border-right:1px solid lightgrey; */
+    text-align: left;
+    /* background-color: #f8f8f8; */
+    background-color: #006e3b;
+    animation-name: example;
+  animation-duration: 4s;
+    
+  }
+
+  @keyframes example {
+    0%   {background-color: lightgray;}
+    50%  {background-color: #006e3b;}
+    
+    
+  }
+  
+  .right {
+    height: 60%;
+    border-radius: 10% 0%;
+    margin-top: 12%;
+    /* border-bottom: 2px solid lightgray; */
+    text-align: center  ;
+    z-index: 1;
+    right: 0%;
+    /* border: 3px solid #02a95c; */
+    /* background-color: #02a95c; */
+  }
+  
+  .centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    color: #02a95c;
+  }
+  
+.landing-login-holder{
+    z-index: 2;
+    margin-right: 50%;
+    margin-top: 10%;
+}
+
+.landing-page-heading{
+    margin-left: 10%;
+    margin-top: 14%;
+    font-size: 60px;
+    color: #fafcf8;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+.landing-heading-brand{
+   
+    font-size: 50px;
+}
+
+.fyp-logo-holder img{
+  width: 250px;
+  height: 250px;
+  border: 5px solid #fafcf8;
+  border-radius: 50%;
+}

@@ -1,0 +1,21 @@
+.Footer1{
+    
+    max-width: 100% !important;
+    height: 33vh !important;
+    background-color: var(--secondarybg);
+    color: var(--lighttext);
+    text-align: center;
+    padding-top: 2%;
+    text-align: left;
+    margin-bottom: 0% !important;
+  }
+
+  .Footer1 p{
+    margin-top: 6%;
+    margin-left: 35%;
+  }
+  
+  .Footer1 h2{
+    font-size: 25px ;
+    
+  }

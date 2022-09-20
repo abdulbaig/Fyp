@@ -1,0 +1,38 @@
+.signup-main{
+    align-self: center;
+    margin-left: 30%;
+    width:25%;
+}
+
+.signup-heading{
+    margin-top: 8%;
+    margin-bottom: 6%;
+}
+
+.signup-inputs{
+    margin-bottom: 6%;
+    
+}
+.signup-input-container{
+    margin-left: 16%;
+
+}
+
+.signup-form{
+    min-height: 50vh;
+    border: 2px solid #02a95c;
+    border-radius: 20px;
+    align-items: center;
+    justify-content: center;
+    align-self: center;
+}
+
+.signup-heading{
+    text-align: center;
+}
+
+.signup-button-holder{
+    margin-left: 16%;
+    margin-top: 3%;
+    margin-bottom: 15%;
+}

@@ -1,0 +1,9 @@
+.requestFundMain{
+    margin-top: 20vh;
+    margin-left: 15%;
+    width: 71%;
+    /* border-left: 1px solid #02a95c;
+    border-right: 1px solid #02a95c;
+    border-bottom: 1px solid #02a95c; */
+    z-index: 0 !important;
+}

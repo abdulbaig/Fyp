@@ -1,0 +1,27 @@
+.nav-main{
+    border-bottom: 2px solid;
+    color: gainsboro;
+    height: 13vh;
+    position: fixed;
+    z-index: 2;
+    
+}
+
+.nav-brand-name{
+    margin-left: 43.5%;
+    padding-top: 0.5%;
+}
+
+.nav-items{
+    margin-left: 10%;
+}
+
+.nav-search{
+    margin-left: 8%;
+    padding-top: 0.20%;
+}
+
+.nav-row{
+    --bs-gutter-x: 0rem !important;
+    
+}

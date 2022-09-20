@@ -1,0 +1,21 @@
+.JanazaRequestFormInputsCover button{
+    margin-left: 80%;
+}
+
+
+
+.request-student-inputs{
+    margin-bottom: 3%;
+    margin-left: 8%;
+    width: 500px !important;
+}
+
+.request-student-subHeadings{
+    font-weight: 600;
+    margin-left: 8%;
+}
+
+.request-student-gender{
+    margin-bottom: 7%;
+    margin-left: 8%;
+}

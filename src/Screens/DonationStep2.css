@@ -1,0 +1,35 @@
+.donationStep2-main-div{
+    margin-top: 28vh;
+    margin-left: 41vw;
+    width: 34vw;
+    height: 50vh;
+    border: 1px solid;
+    border-color: #02a95c;
+    border-radius: 15px;
+}
+
+.donationStep2-div{
+    text-align: center;
+    margin-top: 3vw;
+}
+
+.donationStep2-div h5{
+    
+    padding-bottom: 5%;
+    color: #02a95c;
+}
+
+.donationStep2-div h6{
+    margin-top: 5%;
+    color: #02a95c;
+}
+
+.donationStep2-div p{
+    font-weight: 600;
+    
+}
+
+.donationStep2-div Button{
+    margin-top: 5%;
+    margin-left: 40%;
+}

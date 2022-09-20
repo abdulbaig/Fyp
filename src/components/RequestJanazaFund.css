@@ -1,0 +1,28 @@
+/* .JanazaFundButton{
+    margin-left: 100%;
+    margin-top: 5%;
+} */
+
+.request-janaza-inputs{
+    margin-bottom: 3%;
+    width: 500px !important;
+}
+
+.request-janaza-input-container{
+    margin-left: 8%;
+}
+
+.request-janaza-form{
+    margin-top: 3%;
+}
+
+.request-janaza-button{
+    margin-left: 88%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+.request-janaza-dropdown{
+    margin-left: 8%;
+    margin-bottom: 7%;
+}

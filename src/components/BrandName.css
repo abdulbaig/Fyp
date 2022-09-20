@@ -1,0 +1,15 @@
+.nav-main{
+    background-color: var(--primarybg);
+    
+}
+  
+.navbar-brand{
+    color: var(--greencolor) !important;
+    font-size: 40px;
+}
+
+.brand-name{
+    font-size: 1.5rem;
+    font-weight: 700;
+}
+  

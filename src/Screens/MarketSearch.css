@@ -1,0 +1,41 @@
+.MarketSearchCover{
+    margin-left: 23%;
+    width: 70%;
+    
+    color: #fafcf8;
+    font-weight: 600;
+    font-size: 20px;
+    margin-top: 18vh;
+
+}
+
+.MarketSearchHeading{
+    text-align: center;
+    
+    height: 6vh;
+    background-color: #02a95c;
+}
+
+.MarketSearchDetails{
+    background-color: #ffffff;
+    flex: content;
+    flex-wrap: wrap;
+    flex-direction: row;
+    width: 80%;
+    color: black;
+    
+
+}
+
+.market-search-data{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    border-radius: 20px;
+    padding: 1%;
+    border: 1px solid black;
+    border-width: 0.5%;
+    margin-bottom: 3%;
+    margin-top: 2%;
+}

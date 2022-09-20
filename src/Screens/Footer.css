@@ -1,0 +1,24 @@
+.footer-main{
+    margin-top: 100vh;
+    border-top: 1px solid lightgray;
+    min-height: 35vh;
+    
+    background-color: #f8f8f8;
+}
+
+.footer-text-holder{
+    width: 70%;
+    margin-left: 15%;
+    margin-top: 3%;
+}
+
+.footer-heading{
+    font-weight: 600;
+    text-align: center;
+}
+
+.footer-paragraph{
+    text-align: justify;
+    color: gray;
+    font-weight: 400;
+}

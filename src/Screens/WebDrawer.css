@@ -1,0 +1,28 @@
+
+
+.MuiDrawer-paperAnchorDockedLeft{
+    background-color: #006e3b !important;
+    color: #fafcf8 !important;
+    width: 250px !important;
+    align-items: center;
+    z-index: 1;
+    /* margin-top:13vh; */
+}
+
+.MuiList-padding{
+    margin-top: 35% !important;
+}
+
+.drawer-logo-carrier{
+    margin-top: 25%;
+}
+
+
+
+.home-fyp-logo-holder img{
+    width: 130px;
+    height: 130px;
+    border: 5px solid #fafcf8;
+    border-radius: 50%;
+    margin-top: 25%;
+  }

@@ -1,0 +1,31 @@
+.Home-Main{
+    height: 87vh;
+    /* background: rgb(255,255,255);
+    background: linear-gradient(0deg, rgba(255,255,255,1) 0%, rgba(2,169,92,1) 100%); */
+    background-color: #f8f8f8;
+    margin-top: 13vh;
+    width: 86%;
+    margin-left: 14%;
+}
+
+
+
+.Home-Image-1{
+    height: 100%;
+    width: 100%;
+}
+
+.home-card-body{
+    margin-right: 5%;
+ /* border: 2px solid #02a95c; */
+  max-width: 25%;
+ min-height: 30%;
+ margin-top: 13%;
+ 
+}
+
+.home-card-body img{
+    border-radius: 49%;
+    border: 5px solid #006e3b;
+}
+
