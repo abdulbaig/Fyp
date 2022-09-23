@@ -135,7 +135,7 @@ const Login = () => {
                 />
          </div>
         
-            <p className='login-getregistered'><span>Not Registered Yet?</span> <Link to='/LandingPageSignUp'><span>Get Registered!</span></Link> </p>
+            {/* <p className='login-getregistered'><span>Not Registered Yet?</span> <Link to='/LandingPageSignUp'><span>Get Registered!</span></Link> </p> */}
         
 
         </form>

@@ -49,11 +49,7 @@ const Drawer = props => {
       icon: <InboxIcon />,
       onClick: () => navigate("/RequestStudentStatus")
     },
-    {
-      text: "View Profile",
-      icon: <InboxIcon />,
-      onClick: () => navigate("/ViewProfile")
-    },
+    
     {
       text: "Logout",
       icon: <InboxIcon />,

@@ -126,12 +126,14 @@ getresult()
 
                 {marketData.map ((Data, index) =>(
                <div className="market-search-data">
-                                 <p style={{color: '#02a95c'}}>Category:{Data.type}</p>
+                 <p><p style={{color: "#02a95c"}}>Type</p>{Data.type}</p>
 
-                 <p>Contact No:{Data.phone}</p>
-                 <p>{Data.location}</p>
+                 <p><p style={{color: "#02a95c"}}>Contact No</p>{Data.phone}</p>
+                 <p><p style={{color: "#02a95c"}}>Location</p>{Data.location}</p>
+
                  <p>{Data.block}</p>
-                 <p>{Data.name}</p>
+                 <p><p style={{color: "#02a95c"}}>Market Name</p>{Data.name}</p>
+
                 </div>
 
 

@@ -1,5 +1,5 @@
 import React from 'react'
-import NavBar from '../components/NavBar'
+import NavbarForLanding from "../Screens/NavbarForLanding"
 import './LaningPage.css'
 import Login from './Login'
 import Footer from './Footer'
@@ -9,7 +9,7 @@ const LandingPage = () => {
   return (
     <>
     <div className='landingpage-main'>
-    <NavBar />
+    <NavbarForLanding />
         <div class="split left">
   <div classNamme="centered">
     
