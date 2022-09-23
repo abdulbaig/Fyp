@@ -25,3 +25,9 @@
     --bs-gutter-x: 0rem !important;
     
 }
+
+@media only screen and (max-width: 600px) {
+    .home-nav-brand-name{
+      margin-left: 25%;
+    }
+  }
